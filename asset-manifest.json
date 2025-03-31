@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/OTP-Input/static/css/main.c75452dd.css",
+    "main.js": "/OTP-Input/static/js/main.50cfb76c.js",
+    "index.html": "/OTP-Input/index.html",
+    "main.c75452dd.css.map": "/OTP-Input/static/css/main.c75452dd.css.map",
+    "main.50cfb76c.js.map": "/OTP-Input/static/js/main.50cfb76c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c75452dd.css",
+    "static/js/main.50cfb76c.js"
+  ]
+}
