@@ -1,0 +1,22 @@
+body {
+    background-color: #313030;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .input-group {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  .otp-input {
+    width: 80px;
+    height: 80px;
+    font-size: 40px;
+    text-align: center;
+    outline: 0;
+    border-radius: 5px;
+  }
+  
